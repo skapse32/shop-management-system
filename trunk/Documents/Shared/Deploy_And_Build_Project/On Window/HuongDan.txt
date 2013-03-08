@@ -1,0 +1,6 @@
+﻿	
+	B1 : Mở 2 file Build_Project.bat và Deploy_Project.bat bằng Notepad++
+	
+	B2 : Sửa đường dẫn của jboss và project ứng với máy của các bạn
+		Portfolio_System_folder=G:\Java\CongDongJava\shop-management-system\Portfolio_System
+		jboss_folder=C:\jboss-as-7.1.1.Final
