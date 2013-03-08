@@ -1,0 +1,9 @@
+==== This guide is applied to Linux OS ======
+Step 1: Double click to AutoBuild_PortfolioSystem.sh
+Step 2: Press Display
+Step 3: Replace URI of PROJECT_PATH by your project location
+Step 4: Replace URI of JBOSS_PATH by your jboss location
+Step 5: Save
+Step 6: Run the file again and press Run in Terminal
+
+Have fun!
