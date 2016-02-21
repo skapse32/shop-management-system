@@ -1,0 +1,3 @@
+Đối tượng chương trình hướng tới là các chuỗi cửa hàng cùng chung hệ thống như Trung Nguyên coffee, hệ thống siêu thị điện máy Nguyễn Kim v.v. Tuy nhiên những hệ thống bán hàng như thế này thường lớn hoặc rất lớn, họ cần những chương trình có thể vừa giúp họ quản lý kho hàng, giúp họ quản lý vật liệu hoặc sản phẩm được bán ra, quản lý các hóa đơn đặt hàng, các sản phẩm nào được bán và không được bán.
+
+Trang web của chúng ta sẽ cho nhập các cửa hàng, đại lý nhập hàng, xuất hàng, bán hàng; cho khách hàng đặt hóa đơn.
